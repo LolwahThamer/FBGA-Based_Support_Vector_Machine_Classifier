@@ -53,11 +53,11 @@ The system reads x and y values from text files (`x_value.txt`, `y_value.txt`), 
 - Simulation and hardware verification on DE2‑115 FPGA
 - Real‑time visual feedback via LEDs and HEX displays
 
-
+```
 y ≥ 100 → Class 1
 y < 100 → Class 0
-```
 
+```
 #### Mode 10 – Inclined Boundary
 
 Decision rule:
