@@ -170,6 +170,15 @@ J --> K
 
 ---
 
+# RTL Simulation
+## 🧠 SVM System RTL Simulation
+
+![SVM Core System Simulation](SVM_RTL_SIMULATION.png)
+
+### 🔬 SVM Core RTL Simulation
+
+![SVM Core RTL Simulation](SVM_CORE_RTL.png)
+
 # 📦 Module Descriptions
 
 ## 1️⃣ Input Reader
