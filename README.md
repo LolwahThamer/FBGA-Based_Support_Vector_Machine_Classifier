@@ -14,7 +14,7 @@ Built with Verilog, simulated in ModelSim, and synthesized for the **DE2-115** b
 ## 📑 Table of Contents
 - [Project Overview](#project-overview)
 - [System Architecture & Flowchart](#system-architecture--flowchart)
-- [RTL Simulation](#RTL Simulation)
+- [RTL Simulation](#RTL-Simulation)
 - [Modules Description and Verilog Code](#modules-description-and-verilog-code)
   - [1. Input Reader](#1-input-reader)
   - [2. Mode Selector](#2-mode-selector)
